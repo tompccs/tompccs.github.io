@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Day Two: 'You Don't Have to Venture Far to Find Weird'"
-date: Sun 21 Oct 14:17:18 BST 2018
-
+date: Tue 22 Oct 23:00:00 JST 2018
 
 categories: travel japan
 ---
