@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vanityfarce.com
+Token: 1ceeda7bbad299db0f694532984c58c7669c7e826279f955d7e6753caab2fa60
