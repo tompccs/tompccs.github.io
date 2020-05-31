@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nicholas Pepe"
-date: Sun  31 May 21:00:00 JST 2020
+date: Sun  31 May 21:00:00 UTC+1 2020
 
 categories: email humour code
 ---
