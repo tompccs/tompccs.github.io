@@ -22,7 +22,7 @@ On Sun, 31 May 2020 at 20:28, [Professor] George [redacted@ucl.ac.uk] wrote:
 
 >Dear Shengwei,
 >
->The mark was decided by your marker Tom Robbins (cc'ed).
+>The mark was decided by your marker Tom [redacted] (cc'ed).
 It is true that the lab examination mark was 90 but then your
 marker decided to drop to 70 upon examining your code.
 >
