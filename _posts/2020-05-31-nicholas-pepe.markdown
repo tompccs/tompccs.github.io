@@ -15,7 +15,7 @@ On 31/05/2020 16:25, [redacted] Shengwei wrote:
 >Besides, I'm also baffled about that 'Suspect of copying' comment. I can assure you that I wrote all the code on my own without any help from other people or any unauthorized reference to other people's work. Java Programming module is my favorite among all second-year courses. A lot of my time and effort is dedicated to these assignments in order to make the code as perfect as possible, and I have enjoyed every second of it. Therefore, it really hurts when I'm being regarded as suspect of copying. I'm writing this email to humbly ask for more clarification on this feedback as well as the reason why such a low score is received.
 >
 >Yours Sincerely,
-
+>
 >Shengwei [redacted]
 
 On Sun, 31 May 2020 at 20:28, [Professor] George [redacted@ucl.ac.uk] wrote:
@@ -51,7 +51,7 @@ On Sun, 31/04/2020 21:39, Tom [redacted] wrote:
 >
 >I've just had another look at your assignment. The code was generally good, well commented and demonstrated an understanding of polymorphism. You should avoid using generic classes such as Object in method declarations (use ListNode instead), but otherwise the code is fine.
 >
->The reason you were given a low mark is because of the line "package com.nicholaspepe", which implied to me that the work was plagiarised from another student - generally package names contain the person or company who wrote the code (for instance, com.tomrobbins, or com.ucl.ee). However if you can explain why you have called your package "com.nicholaspepe" then I will review the mark.
+>The reason you were given a low mark is because of the line "package com.nicholaspepe", which implied to me that the work was plagiarised from another student - generally package names contain the person or company who wrote the code (for instance, com.johnsmith, or com.ucl.ee). However if you can explain why you have called your package "com.nicholaspepe" then I will review the mark.
 >
 >Best wishes,
 >
