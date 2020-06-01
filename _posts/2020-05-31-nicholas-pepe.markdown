@@ -56,3 +56,21 @@ On Sun, 31/04/2020 21:39, Tom [redacted] wrote:
 >Best wishes,
 >
 >Tom
+
+## Epilogue
+
+On Monday 01/05/2020 03:40, [redacted] Shengwei wrote:
+
+>Dear [Tom],
+>
+>Back in August 2019 when I started learning Java, I took an online Java tutorial, saying that you can name the package with your own name or the name of a corporation. As a fan of Arsenal Football Club (the one located in North London Islington), I was really pumped at that time with the club's record-breaking signing "Nicolas Pepe", an Ivorian coast winger from the French Top Division. So, I decided to improvise a little bit and name my first package on IntelliJ as "com.nicolaspepe". 
+>
+>Since all my Java projects in year 2 are created under this package, the package name appearing at the start of all assignments is thus "com.nicolaspepe". You can have a check on my assignment 2 code and the package name is still Nicolas Pepe. I've enclosed some more information regarding this footballer, and I hope that it's useful in convincing you of my innocence.
+>
+>Yours Sincerely,
+>
+>Shengwei [redacted]
+
+*Attachements:*
+
+![](/assets/GettyImages-1211020464.jpg)
