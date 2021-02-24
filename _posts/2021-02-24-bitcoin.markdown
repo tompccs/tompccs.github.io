@@ -7,7 +7,7 @@ categories: bitcoin investing
 ---
 *When all you have is a hammer, everything looks like a nail.*
 
-I became aware of Bitcoin pretty early on in its history: if you read my page in my high-school yearbook for the class of 2011, you’ll see that one of my friends saw fit to mention that I “[plan] to become rich by buying something called ‘Bitcoin’, a digital currency as valuable as the Zimbabwean Dollar”. 
+If you read my page in my high-school yearbook for the class of 2011, you’ll see that one of my friends saw fit to mention that “Tom is a man who takes pleasure in doing exactly the opposite of everyone[, such as his] early adoption of Bitcoin, a universal currency more inherently worthless than the Zimbabwean Dollar”. 
 
 In truth, I didn’t really own any Bitcoin, at least not enough to be meaningful even today. I’d tried mining a bit on my 2006 Macbook, but back then people were giving it away for free in an effort to kick-start the crypto-economy. The focus of the ‘Bitcoin community’ in those days was on building a real, workable currency – in other words, it was yet to become the crypto-Marxist doomsday cult it is in 2021. Certainly lots of the people involved in it had a strong libertarian, anti-Fed ethos, but that was secondary: the sort of things people wanted to buy with bitcoins were pizzas and beer. The early bitcoiner’s idea of bitcoin’s success was it being accepted as legal tender at your local bar. 
 
