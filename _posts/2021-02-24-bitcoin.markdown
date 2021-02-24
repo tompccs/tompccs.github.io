@@ -1,0 +1,56 @@
+---
+layout: post
+title:  Unravelling Cryptocurrencies
+date: Wed 24 Feb 12:00:00 UTC+1 2021
+
+categories: bitcoin investing
+---
+*When all you have is a hammer, everything looks like a nail.*
+
+I became aware of Bitcoin pretty early on in its history: if you read my page in my high-school yearbook for the class of 2011, you’ll see that one of my friends saw fit to mention that I “[plan] to become rich by buying something called ‘Bitcoin’, a digital currency as valuable as the Zimbabwean Dollar”. 
+
+In truth, I didn’t really own any Bitcoin, at least not enough to be meaningful even today. I’d tried mining a bit on my 2006 Macbook, but back then people were giving it away for free in an effort to kick-start the crypto-economy. The focus of the ‘Bitcoin community’ in those days was on building a real, workable currency – in other words, it was yet to become the crypto-Marxist doomsday cult it is in 2021. Certainly lots of the people involved in it had a strong libertarian, anti-Fed ethos, but that was secondary: the sort of things people wanted to buy with bitcoins were pizzas and beer. The early bitcoiner’s idea of bitcoin’s success was it being accepted as legal tender at your local bar. 
+
+Fast-forward to 2021 and that dream is further away than ever. Spending bitcoin is one of the most difficult things you can do. I’m going to be generous and leave aside all of the technical problems around transaction costs, the time it takes for transactions to be added to the blockchain, and other such matters which can probably (or have been) solved. 
+
+Let’s examine why I can’t buy a beer with bitcoin today [1]. As of writing (and this will surely become quickly out of date), bitcoin’s market cap has exceeded $1tn. By comparison, there are just under 50 billion Swiss Francs in circulation today, which are worth around $56bn USD. However, despite having under 6% of the market cap of bitcoin, you will find tens of thousands of businesses which will gladly sell you goods and services for your Swiss Franks (they all just happen to be in Switzerland). Why, despite this huge market cap, has bitcoin fundamentally failed to enter our daily lives? 
+
+One answer is network effects. A currency only works when there are enough buyers and sellers on each side. This much is obvious. However, the subtlety that’s lost here is that there have to be buyers and sellers on both sides who are also interested in buying and selling things other than bitcoin! You can find people all over the world who are willing to trade Pokemon cards, even some people willing to pay hard currency, but you can’t build an economy out of them because the people trading Pokemon cards are only interested in trading Pokemon cards for cash, or vice-versa. And in a liquid market, why would a business owner accept Pokemon cards when you can just insist they trade their cards for cash first? 
+
+What’s so strange about all of this is that it totally flies in the face of Bitcoin’s original vision. It’s telling that, if you read Satoshi Nakamoto original whitepaper [2], monetary policy, the fed, or currency debasing aren’t even mentioned (the word “currency” appears only once). The original purpose of bitcoin was to solve the very specific problem of transferring value between two parties without the need for an intermediary – the word “transaction” appears 69 times. Not only do people not use bitcoin for goods and services in this way today, they largely don’t even trade cryptocurrencies in this way! Most trades happen on big, centralised platforms, which are vulnerable to government shutdowns, theft, or technical issues. 
+
+If this is the case, then what’s the point of owning bitcoin? And why have so many people decided that it’s worth a lot of USD to own bitcoin? 
+
+What has happened in the last year or so is that a fringe idea – the idea that the Fed engages in regular debasement of the US dollar, which is the reserve currency of the world – suddenly went mainstream in the wake of the coronavirus pandemic. I’m not going to opine too much on the validity of this view – I think it’s basically true, and that all of the risks the bitcoin bulls point out regarding modern monetary policy (lower-case or upper-case) are real and worrisome. Relatedly, when reading Marx, I can nod along with the correct diagnosis of the ills of capitalism. Where he loses me is his belief in the inevitability of a revolution which will bring about a socialist utopia which will usher in a reign of peace and love, and everyone gets a mansion. 
+
+This utopian/dystopian binary mindset is the fatal flaw. Communism was the 20th century’s “idea that eats smart people”. More recently it was the Singularity (I highly recommend you read this excellent essay on the subject: [3]). Today it’s bitcoin. What all these three things have in common is that they are the careful, sophisticated, and elegant application of pure reason. Like a well-crafted conspiracy theory, they glide from precept to conclusion along an unbroken chain of impeccable logic [4]. Unfortunately for them is that the world does not fit neatly into Platonic forms of Revolution, Superintelligence or (what I’ve only recently heard referred to as ) “The Flippening”. 
+
+“The Flippening” is the idea that hyperinflation of the USD is inevitable and imminent, and that therefore Bitcoin is the One True store of value. By their logic, holding onto any currency is akin to holding onto sand as it runs through your fingers – your hard work which earned it literally turning it to dust as the US government debases the global reserve currency to pay for ever spiralling public services bills, military spending, and bailing out American Big Business. And I basically agree with this – Bitcoin is a good hedge against the US dollar dropping its status as the global reserve currency. With a $1tn market cap, mathematically provably limited supply, and the complete freedom from the clutches of any individual or nation state, what else could it be? 
+
+But this is not the only possible outcome. And perhaps, most damning, I don’t even think it’s a very likely outcome. 
+
+A general point about investing: if the price of an asset is closely tied to the probability of a particular future event, and you disagree with the probability that the market assigns to it, then in your view that asset is mispriced. It’s hard to measure what the actual probability of an event like The Flippening is, but what isn’t so hard to measure is how pervasive this narrative has suddenly become. The problem with Bitcoin is that, although you can’t just print more of it, you can get Elon Musk to retweet it endlessly. Bitcoin’s price goes up as a function of retweets in a similar way to how the stock market goes up as a function of the Fed printing dollars. 
+
+Gamestop should have been the wake-up call. No one bought Gamestop because they thought its stock would become the reserve currency of the future, but perhaps they might as well have done. People were buying and holding GME because other people were buying and holding GME (and because some people were forced to buy GME). Similar to Bitcoin, there was a narrative that started with an observation in early 2020 that GMEs financials weren’t in as bad shape as the market seemed to think, and that the company had a good shot at a turnaround, and morphed into the narrative that big hedge funds had huge short positions which they would be forced to cover if enough retail investors bought the stock. After climbing 1800% in 20 days, it eventually fell back to a pedestrian 4x multiple over its 2020 trading value. The party was over.
+
+What GME demonstrated was the power of the meme in the stock market, and that an asset price could increase its value by over 20x for no fundamental reason. People point to the rising price of bitcoin as evidence of the truth in their narratives, but the reality is that bitcoin could be rising for no reason at all.
+
+Ok, so maybe bitcoin specifically is overpriced – what about other crypto as a hedge against the USD? Imagine a revolutionary new asset class that’s fungible, has a finite supply, and whose supply is decentralised. Actually, this sounds a lot like gold. Is gold all that great? Well, the main benefit that crypto has over gold is that (a) as well as weighing gold you need to verify its purity, which is expensive to do for every transaction; and (b) gold can’t be transmitted over the internet. But if you don’t care about buying stuff, then gold is a pretty good way to store value: you can keep it at home and ‘be your own bank’ (with all the hazards that entails), store it in a safe-deposit box, or just buy some as a paper commodity – the exact same options open to crypto currency traders (with the nice bonus that you can actually get insurance up to certain amounts if you decide to go down the safe-deposit route). If you can’t buy stuff with crypto then there’s really no advantage to it over gold at all.
+
+In summary, there are two reasonable arguments (and one spectacularly bad one) for buying bitcoin/crypto:
+
+1.	**The believer**: You believe in the imminent ‘Flippening’ in which you and all your crypto buddies are unimaginably rich in a post-USD economic wasteland
+2.	**The hedger**: You don’t necessarily believe in the ‘Flippening’ but are worried about inflation and want an asset which won’t lose value in the future
+3.	**The speculator**: Price always goes up [rocket emojis]
+
+(1) needs you to buy into a messianic world-view, and, similar to how there are many religions which purport to worship the ‘one true god’, there are many cryptocurrencies which you can own, and many ways the rapture could play out. My non-consensus view is that, like every single other time there is a mass-hysteria that we are approaching the ‘end of history’, history will chug along all the same, fiat currencies and all. (2) seems a bit more reasonable on the face of it, but you can get all of the benefits with almost none of the volatility from buying gold. That leaves (3), to which I can only say, if you can get in while the price is going up and get out before the institutions do, profiting off the ‘true believers’ holding the bag, then by all means go for it. 
+
+### Footnotes
+
+[1] Please don’t send me links of websites where I can buy beer for bitcoin. I want to buy a beer from my local pub (coronavirus notwithstanding), not from a website which specialises in trading bitcoin for beer.
+
+[2] https://bitcoin.org/bitcoin.pdf
+
+[3] https://idlewords.com/talks/superintelligence.htm
+
+[4] I don’t know to whom I should attribute this but I recently heard this excellent aphorism: “a madman is someone who has lost everything except his reason”. I feel like this applies particularly to bitcoin maximalists.
